@@ -1,0 +1,13 @@
+Crear un proyecto con node:
+    -crear servidor con express
+    -crear 4 archivos de rutas:
+        1. index.js
+        2. user.js
+        3. product.js
+        4. login.js
+    
+    - En el index.js crear 3 rutas: '/', '/fabrica' , '/empleados' -> enviar un mensaje con la ruta en la que te encuentras
+    - En el user.js crear 3 rutas: '/', '/altura' , '/edad' -> enviar un mensaje con la ruta en la que te encuentras
+    - En el product.js crear 3 rutas: '/', '/calzado' , '/pantalon', '/reloj? -> enviar un mensaje con la ruta en la que te encuentras
+    - En el login.js crear 3 rutas: '/', '/si' , '/no/:mensaje -> enviar un mensaje con la ruta en la que te encuentras
+        mostrar la variable dinámica con un console.log()
